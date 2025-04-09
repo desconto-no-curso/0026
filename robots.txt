@@ -6,3 +6,6 @@ Disallow:
 
 User-agent: Googlebot-Image
 Disallow:
+
+
+Sitemap: https://formacao-de-radiestesia-sensitiva.desconto-no-curso.com.br/sitemap.xml
